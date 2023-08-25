@@ -1,5 +1,5 @@
 
-# Ethical Hacking Disclaimer:Quilbot TameperMonkey Script
+# Ethical Hacking Disclaimer:Quilbot TamperMonkey Script
 
 ![Quilbot Premium TamperMonkey Script](https://raw.githubusercontent.com/xettrialeen/quilbot-tampermonkeyScript/main/quilbotPemium.png)
 
