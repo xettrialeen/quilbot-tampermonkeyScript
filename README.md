@@ -13,3 +13,23 @@ It is crucial to respect applicable laws and regulations while engaging with cyb
 Remember that unauthorized access or malicious intent can have serious legal consequences. Always act responsibly, ethically, and within the boundaries of the law.
 
 By accessing this content, you agree to adhere to the principles of responsible and ethical use of the knowledge and techniques presented here.
+## Authors
+
+- [@xettrialeen](https://github.com/xettrialeen)
+
+
+## License
+
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+
+
+## 🚀 About Me
+Banging Heads with Sveltekit, Pocketbase, Spline, Figma,Tauri
+And reverse engineering.
+
+
+## 🛠 Skills
+you know me
+

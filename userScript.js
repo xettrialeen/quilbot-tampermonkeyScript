@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         QuilBot Premium
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/xettrialeen
 // @version      0.1
 // @description  Note this is just for educational purpose
 // @match        https://quillbot.com/*
