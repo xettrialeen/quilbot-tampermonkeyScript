@@ -1,7 +1,7 @@
 
 # Ethical Hacking Disclaimer:Quilbot TameperMonkey Script
 
-!["Quilbot Premium TamperMonkey Script"]("https://raw.githubusercontent.com/xettrialeen/quilbot-tampermonkeyScript/main/quilbotPemium.png")
+![Quilbot Premium TamperMonkey Script](https://raw.githubusercontent.com/xettrialeen/quilbot-tampermonkeyScript/main/quilbotPemium.png)
 
 
 The content and information provided here in are intended for educational purposes only. The purpose of this material is to enhance knowledge and awareness about cybersecurity and ethical hacking techniques. It is not intended to encourage or promote any illegal or unauthorized activities.
