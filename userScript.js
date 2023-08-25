@@ -22,7 +22,7 @@
             this.addEventListener('load', function() {
                 // Intercept the response
                 var originalResponse = self.responseText;
-                var modifiedResponse = originalResponse.replace(`"accepted_premium_modes_tnc":false`, `"accepted_premium_modes_tnc":true`).replace(` "premium":false`,`"premium":true`);
+                var modifiedResponse = originalResponse.replace(`"accepted_premium_modes_tnc":false`, `"accepted_premium_modes_tnc":true`);
                 modifiedResponse = modifiedResponse.replace(`"premium":false`, `"premium":true`);
                 // Override the response with the modified content
                 Object.defineProperty(self, 'responseText', {
